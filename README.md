@@ -1,5 +1,3 @@
  Projetos Arduino 
  Repositório de projetos de Arduino
- Prof José Cesar Ribeiro 
-
-
+ Prof. José Cesar Ribeiro 
